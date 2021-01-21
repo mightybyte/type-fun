@@ -32,7 +32,8 @@ library
 
   exposed-modules:     TypeFun.Constraint
                      , TypeFun.Data.Eq
-                     , TypeFun.Data.List
+                     -- Temporarily removed to fix compile error
+                     --, TypeFun.Data.List
                      , TypeFun.Data.Maybe
                      , TypeFun.Data.Peano
 
