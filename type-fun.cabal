@@ -1,5 +1,8 @@
 name:                type-fun
-version:             0.1.2
+
+-- Use .0.1 prefix to distinguish this from the next probable version
+-- since this change is just a a stopgap
+version:             0.2.0.1
 synopsis:            Collection of widely reimplemented type families
 license:             BSD3
 license-file:        LICENSE
